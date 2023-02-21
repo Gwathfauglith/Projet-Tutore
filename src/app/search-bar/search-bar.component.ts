@@ -1,5 +1,8 @@
 import { Component } from '@angular/core';
 
+/**
+ * The search bar
+ */
 @Component({
   selector: 'app-search-bar',
   templateUrl: './search-bar.component.html',
